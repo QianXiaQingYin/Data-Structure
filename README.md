@@ -1,2 +1,2 @@
 # Data-Structure
-This repository is my first one in Github.It is the implementation of the teacher Chen Yue's data structure course on MOOC.Most of the repository are edit by C++,some are edit by C#.My skills are limited,so if there are some errors,please tell me.
+本人为22届计算机考研学生，这个代码仓库为天勤数据结构视频的实现代码，使用的语言都是C++。主要作为为记录学习过程，代码仅供参考，如有错误欢迎提出issues，。
