@@ -4,7 +4,7 @@ using namespace std;
 #define MAXSIZE 100
 
 bool parenthesisMatched(char *str);
-int isSameClass(char left, char right);
+bool isSameClass(char left, char right);
 
 int main()
 {
@@ -34,7 +34,7 @@ bool parenthesisMatched(char *str)
         return true;
 }
 
-int isSameClass(char left, char right)
+bool isSameClass(char left, char right)
 {
     if (left == '(' && right == ')')
         return true;
